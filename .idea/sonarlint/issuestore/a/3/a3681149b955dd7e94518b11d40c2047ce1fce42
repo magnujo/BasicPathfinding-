@@ -1,0 +1,58 @@
+
+„squid:S4165M"hRemove this useless assignment; "movingEast" already holds the assigned value along all execution paths.(þúÆÀÿÿÿÿÿ
+T
+squid:S106~"9Replace this use of System.out or System.err by a logger.(ï—–·þÿÿÿÿ
+O
+squid:S106v"9Replace this use of System.out or System.err by a logger.(®–Œ¯
+„squid:S4165@"hRemove this useless assignment; "movingEast" already holds the assigned value along all execution paths.(þúÆÀÿÿÿÿÿ
+O
+squid:S1061"9Replace this use of System.out or System.err by a logger.(ò¤µæ
+„"squid:ClassVariableVisibilityCheck"VMake searchingY a static final constant or non-public and provide accessors if needed.(ïÖ¥·
+Nsquid:S2589D"7Remove this expression which always evaluates to "true"(Í‚¸Ê
+psquid:S1450"YRemove the "movingEast" field and declare it as a local variable in the relevant methods.(ö™š¾
+O
+squid:S106L"9Replace this use of System.out or System.err by a logger.(ï²íª
+T
+squid:S106e"9Replace this use of System.out or System.err by a logger.(ØŒ£—þÿÿÿÿ
+‹squid:S4165A"hRemove this useless assignment; "movingWest" already holds the assigned value along all execution paths.(Þ´¯Øùÿÿÿÿ8ÃŸ¦-
+U
+squid:S106„"9Replace this use of System.out or System.err by a logger.(ö¬žÀþÿÿÿÿ
+„squid:S4165g"hRemove this useless assignment; "movingWest" already holds the assigned value along all execution paths.(Þ´¯Øùÿÿÿÿ
+„squid:S4165{"hRemove this useless assignment; "movingWest" already holds the assigned value along all execution paths.(Þ´¯Øùÿÿÿÿ
+P
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(ï²íª
+U
+squid:S106p"9Replace this use of System.out or System.err by a logger.(²°‰$8á º¥¦-
+T
+squid:S106F"9Replace this use of System.out or System.err by a logger.(ØŒ£—þÿÿÿÿ
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(áª¬‡ýÿÿÿÿ8áÜ¾Í¥-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ÑæŸ
+T
+squid:S106W"9Replace this use of System.out or System.err by a logger.(ó´¦Ãøÿÿÿÿ
+U
+squid:S106ž"9Replace this use of System.out or System.err by a logger.(ÿÞË€ýÿÿÿÿ
+U
+squid:S106¥"9Replace this use of System.out or System.err by a logger.(ó´¦Ãøÿÿÿÿ
+O
+squid:S106:"9Replace this use of System.out or System.err by a logger.(ä„‘æ
+Fsquid:S1125")Remove the literal "false" boolean value.(í±¿ýûÿÿÿÿ
+U
+squid:S106‹"9Replace this use of System.out or System.err by a logger.(ýœÐ’ÿÿÿÿÿ
+T
+squid:S106S"9Replace this use of System.out or System.err by a logger.(Û¼ÁÇýÿÿÿÿ
+O
+squid:S106_"9Replace this use of System.out or System.err by a logger.(ï²íª
+psquid:S1450"YRemove the "movingWest" field and declare it as a local variable in the relevant methods.(ÊÐ•
+P
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(··èÔ
+Esquid:S11250")Remove the literal "false" boolean value.(þŸÇòúÿÿÿÿ
+@squid:S1125]")Remove the literal "false" boolean value.(Í¥Ž¶
+T
+squid:S106>"9Replace this use of System.out or System.err by a logger.(ÿÞË€ýÿÿÿÿ
+@squid:S1125D")Remove the literal "false" boolean value.(Í‚¸Ê
+Asquid:S1125›")Remove the literal "false" boolean value.(Í¹í¶
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ïüÞŸ8á º¥¦-
+fsquid:S1192L"ODefine a constant instead of duplicating this literal "Moving west..." 3 times.(ï²íª
+T
+squid:S106o"9Replace this use of System.out or System.err by a logger.(¶´›§þÿÿÿÿ
